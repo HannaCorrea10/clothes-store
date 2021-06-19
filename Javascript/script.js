@@ -44,7 +44,7 @@ function imprimirEdad(posicion) {
   );
 }
 
-//presentarme();
+presentarme();
 //miGenero();
 //imprimirEdad(0);
 
